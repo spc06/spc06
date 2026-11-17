@@ -17,67 +17,42 @@
 
 ## 👋 Hey, I'm space
 
-I'm a student who got pulled into running big Discord communities and never left. Day to day I lead operations for servers with **160K+ members**, and I build the websites, bots and automation that keep them organized and safe. I like quiet, boring-in-the-best-way communities: clear rules, fast support, scams stopped before they spread.
+I'm a student who fell into running Discord communities and never left. These days I lead ops for servers with **160K+ members**, and I build the bots, sites and systems that keep them organized and safe.
 
-I'm looking for **remote work or freelance projects**: server setup, moderation and staff systems, bot setup, or a clean website for your community or project.
+I'm open to **remote work and freelance projects**: server setup, moderation and staff systems, bots, or a clean website for your community.
 
-## 📊 Track record
+## 📊 The short version
 
-| | |
-|---|---|
-| 🧑‍🤝‍🧑 **840K+** | Discord members across the communities I've worked on |
-| 🎮 **236M+** | Roblox visits on those projects |
-| 🛠️ **8** | Communities and projects, from 5K to 415K members |
-| 🛡️ **Scam & raid defense** | Investigated scams and handled raids in servers of 140K+ |
+**840K+** members across **8** communities · **236M+** Roblox visits · scams and raids handled in servers of up to **415K**
 
-## 🧭 Where I've worked
-
-- **Operations Lead, Kaizen** (160K+ members)
-- **Moderator, Bizarre Lineage** (415K+ members)
-- **Support & Compliance, xelA Bot**
-- **Operations Lead, Hunters**
-- Before that: Community Manager at Case Paradise (30K), Moderator & Scam Investigator at RoDevs (140K), Manager at Anime Dominion and Anime Spike
+**Now:** Operations Lead at Kaizen and Hunters, Moderator at Bizarre Lineage, Support & Compliance at xelA Bot.
+**Before:** Case Paradise, RoDevs (scam investigations), Anime Dominion, Anime Spike.
 
 ## 🧰 What I do
 
-**Community ops:** server architecture, permissions, onboarding, staff teams and workflows, moderation, events and retention
+**Community ops:** server structure, permissions, staff teams, moderation, events
+**Automation:** verification, tickets, forms, webhooks, custom embeds
+**Web:** sites I build for fun and for clients, at [iamspace.tech](https://iamspace.tech)
 
-**Automation:** verification, ticketing, forms, webhooks, custom embeds and server branding
-
-**Web:** I build websites for fun and for clients. Portfolio at [iamspace.tech](https://iamspace.tech)
-
-<!-- EDIT THIS to only what you really use. Delete badges you can't back up. -->
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-## 🚀 Featured work
+## 🚀 Featured
 
-| Project | What it is |
-|---|---|
-| 🌐 [**iamspace.tech**](https://iamspace.tech) | My portfolio and project request form |
-| 🌐 [**spc06.github.io**](https://spc06.github.io) | Personal site, built for fun |
-| 🏢 **Kaizen** | Operations for a 160K+ member community (100M+ visits) |
-| 🤖 *Your next public repo here* | Replace this row once you publish a bot or site repo |
-
-## 🌱 Right now
-
-- 🔭 Running ops for Kaizen and Hunters
-- 🛠️ Building out my web dev portfolio, with public repos coming
-- 🎓 Studying
-- 💬 Taking on a few server or website projects
+- 🌐 [**iamspace.tech**](https://iamspace.tech): my portfolio and project request form
+- 🌐 [**spc06.github.io**](https://spc06.github.io): personal site, built for fun
+- 🏢 **Kaizen**: ops for a 160K+ member community with 100M+ visits
 
 ## 📬 Work with me
 
-Tell me what you're building and what's hurting. I'll tell you honestly whether I'm the right person.
+Tell me what you're building and what's not working. I'll tell you honestly if I'm the right person.
 
-👉 **[Project request form](https://iamspace.tech)** · 📧 **contact@iamspace.tech** · 💬 **[Discord](https://discord.com/users/277787992029134858)**
+📧 contact@iamspace.tech · 💬 [Discord](https://discord.com/users/277787992029134858) · 👉 [Project form](https://iamspace.tech)
 
 ---
 
