@@ -12,15 +12,15 @@
 
 ---
 
-### 👋 Hey, I'm space
+### About me
 
 I'm a student who fell into running Discord communities and never left. I lead ops for servers with **160K+ members** and build the bots, sites and systems that keep them safe and organized.
 
-### 📊 Quick numbers
+### Quick numbers
 
 **840K+** members · **8** communities · **236M+** Roblox visits
 
-### 🧰 What I do
+### What I do
 
 Community ops · Moderation & scam defense · Bots & automation · Websites
 
