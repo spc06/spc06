@@ -83,18 +83,11 @@ Tell me what you're building and what's hurting. I'll tell you honestly whether 
 
 <div align="center">
 
-<!-- Stats. Only look good once you have public repos and enabled "Include private contributions". -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=spc06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spc06&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=spc06&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<!-- Snake: needs the GitHub Action from the reply. Delete these lines until it's set up. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spc06/spc06/output/github-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/spc06/spc06/output/github-snake.svg"/>
 </picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0d1117&height=100&section=footer" width="100%" alt=""/>
