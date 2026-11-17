@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5865F2&height=140&section=header&text=space&fontSize=54&fontColor=ffffff" width="100%" alt="space"/>
 
-**Discord community ops · web dev on the side**
+Discord community ops, and web dev on the side
 
 [![Portfolio](https://img.shields.io/badge/iamspace.tech-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamspace.tech)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/277787992029134858)
@@ -12,17 +12,15 @@
 
 ---
 
-### About me
+### 👋 About me
 
-I'm a student who fell into running Discord communities and never left. I lead ops for servers with **160K+ members** and build the bots, sites and systems that keep them safe and organized.
+I'm a student who runs Discord communities and builds websites on the side. Right now I lead operations at Kaizen (160K+ members) and Hunters, and I moderate Bizarre Lineage (415K+). I also do support and compliance for xelA Bot.
 
-### Quick numbers
+Across 8 communities I've worked with 840K+ members and 236M+ Roblox visits. At RoDevs (140K members) I investigated scams, so I know what a raid or a fake giveaway looks like before it lands.
 
-**840K+** members · **8** communities · **236M+** Roblox visits
+### 🧰 What I work on
 
-### What I do
-
-Community ops · Moderation & scam defense · Bots & automation · Websites
+Server structure and permissions, staff teams, moderation, bots and automation like tickets and verification, and the sites that go with them. More at [iamspace.tech](https://iamspace.tech).
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -31,6 +29,10 @@ Community ops · Moderation & scam defense · Bots & automation · Websites
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
+
+### 📬 Say hi
+
+contact@iamspace.tech, or message me on [Discord](https://discord.com/users/277787992029134858).
 
 <div align="center">
 
