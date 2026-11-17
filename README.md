@@ -12,13 +12,13 @@ Discord community ops, and web dev on the side
 
 ---
 
-### 👋 About me
+###About me
 
 I'm a student who runs Discord communities and builds websites on the side. Right now I lead operations at Kaizen (160K+ members) and Hunters, and I moderate Bizarre Lineage (415K+). I also do support and compliance for xelA Bot.
 
 Across 8 communities I've worked with 840K+ members and 236M+ Roblox visits. At RoDevs (140K members) I investigated scams, so I know what a raid or a fake giveaway looks like before it lands.
 
-### 🧰 What I work on
+###What I work on
 
 Server structure and permissions, staff teams, moderation, bots and automation like tickets and verification, and the sites that go with them. More at [iamspace.tech](https://iamspace.tech).
 
@@ -30,7 +30,7 @@ Server structure and permissions, staff teams, moderation, bots and automation l
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-### 📬 Say hi
+###Say hi
 
 contact@iamspace.tech, or message me on [Discord](https://discord.com/users/277787992029134858).
 
